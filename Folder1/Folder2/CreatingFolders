@@ -1,0 +1,11 @@
+// Ok, that works after adding a readMe file
+// Guess I didn't need to type all this code, just forgot to enter the file name
+
+public class NewFolder {
+
+public static void main (String[] args) {
+
+System.out.println("Took me some practise to type without IDEA");
+
+} //main
+} //class
