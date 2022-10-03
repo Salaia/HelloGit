@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=HQ76QwYorOk  // Разбиралась по эт
 Еще полезные команды:
 
 Downloading from GitHub:
+0) Download and install Git itself!
 1) Create a folder on your computer
 2) Launch GitBash
 3) cd "pathToYourFolder" (you SHIFT+INSERT to paste)
