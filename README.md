@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=zM6z57OtR2Q  // по этому видео
 И при слиянии двух веток (почему вообще появились отдельно master и отдельно main, если я всё из IDEA выгружала, это не должна была быть одна ветка изначально?)
 появилась ошибка: main and master are entirely different commit histories
 и вроде как нечему делать слияние, и у меня висит pull-request, который нельзя осуществить.
-Помогло, ожидаемо, stackoverflow:
+Помогло, ожидаемо, stackoverflow :
 
 git checkout master   
 git branch main master -f    
