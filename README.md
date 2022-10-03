@@ -10,3 +10,5 @@ Downloading from GitHub:
 2) Launch GitBash
 3) cd "pathToYourFolder" (you SHIFT+INSERT to paste)
 4) git clone https://github.com/LinkedInLearning/databases-pf-784293.git
+
+-- Чтобы создать папку, нужно "создать файл", и перед названием нового файла дописать название папка/
